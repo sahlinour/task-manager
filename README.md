@@ -69,14 +69,6 @@ It provides an intuitive interface where users can create, manage, update, and f
 
 ---
 
-<h2>📸 Project Preview</h2>
-
-<p align="center">
-  <img src="https://via.placeholder.com/1000x450.png?text=Task+Manager+Dashboard" width="100%" />
-</p>
-
----
-
 <h2>⚙️ Installation</h2>
 
 <pre>
@@ -90,19 +82,6 @@ php artisan migrate
 php artisan serve
 npm run dev
 </pre>
-
----
-
-<h2>🚀 Usage</h2>
-
-<ol>
-<li>Register a new account</li>
-<li>Login to the dashboard</li>
-<li>Create your tasks</li>
-<li>Edit or delete tasks</li>
-<li>Track progress with status</li>
-<li>Use search and filters</li>
-</ol>
 
 ---
 
@@ -138,16 +117,4 @@ Full Stack Developer
   <a href="https://github.com/sahlinour" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white">
   </a>
-</p>
-
----
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahlinour&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahlinour&theme=radical" />
 </p>
