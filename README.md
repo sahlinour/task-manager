@@ -1,13 +1,6 @@
 <h1 align="center">🚀 Task Manager App</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-Framework-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-Styling-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Responsive-Design-10B981?style=for-the-badge">
-</p>
-
-<p align="center">
 A modern and responsive task management web application built to organize tasks,  
 track progress, and improve productivity with a clean dashboard experience.
 </p>
@@ -82,39 +75,3 @@ php artisan migrate
 php artisan serve
 npm run dev
 </pre>
-
----
-
-<h2>🔮 Future Improvements</h2>
-
-<ul>
-<li>📅 Due Dates</li>
-<li>🔔 Notifications</li>
-<li>📊 Analytics Dashboard</li>
-<li>🌙 Dark / Light Mode</li>
-<li>📌 Drag & Drop Tasks</li>
-<li>👥 Team Collaboration</li>
-</ul>
-
----
-
-<h2>👩‍💻 Developer</h2>
-
-<p align="center">
-<b>Nour El Houda Sahli</b><br>
-Full Stack Developer
-</p>
-
-<p align="center">
-  <a href="mailto:nourelhoudasahli9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/nourelhoudasahli/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="https://github.com/sahlinour" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white">
-  </a>
-</p>
