@@ -12,7 +12,7 @@ This project helps users create, manage, update, and organize daily tasks throug
 - ✅ Edit Tasks
 - ✅ Delete Tasks
 - ✅ Task Status Management
-  - Pending
+  - To Do
   - In Progress
   - Completed
 - ✅ Search & Filter Tasks
